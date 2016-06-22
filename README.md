@@ -1,0 +1,2 @@
+# smart-test
+no comment
